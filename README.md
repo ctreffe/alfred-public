@@ -12,5 +12,5 @@ you want to know more about alfred, please email me and i will get in contact wi
 
 For online documentation and tutorials, please visit the [**Alfred Wiki**](https://github.com/ctreffe/alfred-public/wiki)
 
-You can use the [**Alfred Tracker**](https://github.com/ctreffe/alfred-public/issues) for bug reports and feature requests.
+You can use the [**Alfred Tracker**](https://github.com/ctreffe/alfred-public/issues) for bug reports, feature requests, etc.
 

@@ -3,7 +3,7 @@ Welcome to alfred-public!
 
 **Alfred** - A library for rapid experiment development. 
 
-This is the public online plattform and bug tracker for alfred. This plattform is for developers and testers only.
+This is the public online plattform and bug tracker for alfred, for developers and testers only.
 
 Get the source code from Zenodo: https://doi.org/10.5281/zenodo.1437220
 
